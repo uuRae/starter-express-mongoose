@@ -1,5 +1,5 @@
 
-async function list(req, res) {
+function list(req, res) {
 
   res.send("users");
 }
